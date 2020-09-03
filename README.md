@@ -1,6 +1,6 @@
 这个仓库是存储看 Kubernetes 源码的时候发现的算法篇。
 
-1. [令牌桶算法]: https://github.com/JaneLiuL/k8s-arithmetic/blob/master/BucketRateLimiter.md
+1. [令牌桶算法]: https://github.com/JaneLiuL/k8s-arithmetic/blob/master/BucketRateLimiter.md	"令牌桶算法"
 
    
 
